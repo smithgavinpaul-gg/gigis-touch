@@ -12,6 +12,10 @@ Texture is what stops a screen from looking like a wireframe. A surface without 
 4. **Texture must not fight legibility.** Whatever the texture, body type must remain crisp against it. Test by reading a paragraph for 30 seconds; if your eyes drift, the texture is too loud.
 5. **Materials replace skeuomorphism.** Modern texture is not "this looks like leather" or "this looks like glass". It is "this surface has weight, history, or print-ness". The reference is real-world media, not real-world objects.
 
+## Where to source from
+
+Before fabricating texture from scratch, look at primary source material. Museum collections (Rijksmuseum, Cooper Hewitt, Wolfsonian) are gold mines for wallpaper repeats, textile weaves, paper grain, halftone print samples, and decorative ornament. See `principles/sourcing.md` for the full workflow on extracting and licensing source material.
+
 ## Common textures and their meanings
 
 - **Grain / noise** — printed, photographic, considered. Suits editorial, brutalist, and editorial-leaning product work. Use at 4-8% opacity over solid backgrounds, monochrome noise (slightly warm for paper feel, slightly cool for engineered feel).

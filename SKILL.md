@@ -56,6 +56,7 @@ The skill is organised into eleven principle domains. For any task, pull the two
 | Accessibility | Contrast, focus states, motion-reduction, semantic HTML, keyboard, screen reader, cognitive load | `principles/accessibility.md` |
 | Architecture (design-side) | Component hierarchy, token systems, design-engineering boundary, naming, file structure | `principles/architecture.md` |
 | Mobile & native | Touch targets, gestures, safe areas, native conventions, platform respect | `principles/mobile-native.md` |
+| Sourcing | Where to pull primary patterns, textures, ornament, and period reference from (Rijksmuseum, Cooper Hewitt, Wolfsonian, and the broader museum landscape) | `principles/sourcing.md` |
 
 ## Stack guidance
 

@@ -89,6 +89,8 @@ Strong work lives in roughly these places (in 2026):
 - **Print archives**: AIGA, Eye Magazine, Idea Magazine. Print design is older and the lessons are deeper.
 - **Specific studios' sites**: Pentagram, Mucca, Order, Manual, Bielke&Yang, Hoffmann Angelic. Studio sites are usually a master class in restraint.
 
+For primary source material — patterns, textures, ornament, period typography, the actual objects behind design history — go upstream to the museum collections covered in `principles/sourcing.md`. The Rijksmuseum, Cooper Hewitt, and Wolfsonian together cover roughly a million digitised design objects and most named aesthetics from the last three centuries.
+
 Awwwards is a useful but biased mirror. Its winners trend towards motion-heavy, scroll-jacked, kinetic-typography pieces that win awards but lose users. Treat it as inspiration for *moments* of motion, not as a model for *whole products*.
 
 ## Anti-aesthetic taste
