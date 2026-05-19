@@ -29,7 +29,7 @@ The open-source design-skill landscape for Claude Code is rich but fragmented. T
 Skills live in `~/.claude/skills/` on macOS / Linux. Clone the repo into that directory:
 
 ```bash
-git clone https://github.com/<your-username>/gigis-touch ~/.claude/skills/gigis-touch
+git clone https://github.com/smithgavinpaul-gg/gigis-touch ~/.claude/skills/gigis-touch
 ```
 
 Restart your Claude Code session, or wait a moment for the skill list to refresh. `/gigis-touch` will appear in the available skills.
